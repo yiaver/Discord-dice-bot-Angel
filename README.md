@@ -1,2 +1,2 @@
 # Angel_san
-Bot do discord de rpg
+A rpg dice bot for discord
